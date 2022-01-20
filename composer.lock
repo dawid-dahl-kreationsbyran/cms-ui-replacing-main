@@ -329,12 +329,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/dawid-dahl-kreationsbyran/cms-ui-replacing.git",
-                "reference": "87f9bf6ce6889ea1800877cd76fb32f9b10b6d0f"
+                "reference": "a01dbe5e3fe3503c9b17e76739676c8b8cf33c4b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/dawid-dahl-kreationsbyran/cms-ui-replacing/zipball/87f9bf6ce6889ea1800877cd76fb32f9b10b6d0f",
-                "reference": "87f9bf6ce6889ea1800877cd76fb32f9b10b6d0f",
+                "url": "https://api.github.com/repos/dawid-dahl-kreationsbyran/cms-ui-replacing/zipball/a01dbe5e3fe3503c9b17e76739676c8b8cf33c4b",
+                "reference": "a01dbe5e3fe3503c9b17e76739676c8b8cf33c4b",
                 "shasum": ""
             },
             "require": {
@@ -376,7 +376,7 @@
                 "source": "https://github.com/dawid-dahl-kreationsbyran/cms-ui-replacing/tree/main",
                 "issues": "https://github.com/dawid-dahl-kreationsbyran/cms-ui-replacing/issues"
             },
-            "time": "2022-01-20T09:37:23+00:00"
+            "time": "2022-01-20T16:24:26+00:00"
         },
         {
             "name": "dnadesign/silverstripe-elemental",
