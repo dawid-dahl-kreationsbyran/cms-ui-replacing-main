@@ -1,0 +1,3 @@
+SilverStripe\App\HomePage:
+  extensions:
+    - DNADesign\Elemental\Extensions\ElementalPageExtension
